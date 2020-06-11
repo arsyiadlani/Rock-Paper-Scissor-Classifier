@@ -6,4 +6,4 @@ A simple Convolutional Neural Network project in google colaboratory to classify
 * Model loss and accuracy score visualization
 
 #### Dataset: [https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip](https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip)
-#### Source code: [Colab link](https://colab.research.google.com/drive/1i5jDINkYfpdxy69OChwNPBIH42ZSq9r-?usp=sharing)
+#### See in Colaboratory: [Colab link](https://colab.research.google.com/drive/1i5jDINkYfpdxy69OChwNPBIH42ZSq9r-?usp=sharing)
